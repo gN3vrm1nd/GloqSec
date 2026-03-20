@@ -339,8 +339,12 @@ Returns personal key usage. Requires `x-api-key` header.
 |---|---|
 | `bot_like_typing_speed` | Under 50ms per keystroke — impossible for humans |
 | `suspiciously_fast_typing` | 50–100ms per keystroke |
+| `very_slow_typing` | Over 2000ms — unusual pattern |
 | `robotic_mouse_movement` | Straight line mouse paths — bot pattern |
-| `no_mouse_movement` | No mouse activity on desktop |
+| `suspicious_mouse_movement` | Partially straight mouse paths |
+| `no_mouse_movement` | No mouse activity, quick page visit |
+| `no_mouse_despite_time_on_page` | No mouse on desktop after 3+ seconds — strong bot signal |
+| `constant_mouse_speed` | Robot-like constant mouse speed |
 | `copy_paste_detected` | Credentials pasted from clipboard |
 | `no_scroll_detected` | No scroll on desktop — bot behavior |
 | `mobile_user` | Mobile detected — mouse signals not applicable |
