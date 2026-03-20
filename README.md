@@ -406,7 +406,6 @@ Returns personal key usage. Requires `x-api-key` header.
 | Headless browser | Automation frameworks |
 | Device consistency | Anomalous screen and color depth |
 
-> [Join the waitlist →](mailto:n3vrm1nd.decoy@gmail.com)
 
 ### Bundle 5 — Gloqsec Network · Enterprise · Q4 2026
 
@@ -419,7 +418,7 @@ Every Gloqsec API call contributes to a shared intelligence layer. An IP that de
 | Digital identity graph | Persistent cross-site identity profiles |
 | Fraud ring detection | Coordinated attack signatures |
 
-> The more customers on Gloqsec, the stronger the network for everyone. [Join the waitlist →](mailto:n3vrm1nd.decoy@gmail.com)
+> The more customers on Gloqsec, the stronger the network for everyone.
 
 ---
 
@@ -468,6 +467,5 @@ Every Gloqsec API call contributes to a shared intelligence layer. An IP that de
 ## Support
 
 - Interactive docs: `https://gloqsec.com/docs`
-- Shared key quota: `GET /shared/usage`
 - Personal usage: `GET /usage` with your API key
 - Email: `n3vrm1nd.decoy@gmail.com`
