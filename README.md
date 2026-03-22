@@ -376,8 +376,8 @@ Returns personal key usage. Requires `x-api-key` header.
 | Plan | Price | Calls | Bundles | Status |
 |---|---|---|---|---|
 | Shared demo | Free | 500/day shared | Identity | Live |
-| Starter | $10/mo | 5,000 | Identity | Live |
-| Growth | $29/mo | 25,000 | Identity + Network + Behavioral | Live |
+| Starter | $10/mo | 2,000 | Identity | Live |
+| Growth | $29/mo | 7,500 | Identity + Network + Behavioral | Live |
 | Business | $79/mo | 100,000 | + Social | Q3 2026 |
 | Enterprise | $199/mo | Unlimited | + Gloqsec Network | Q3 2026 |
 
