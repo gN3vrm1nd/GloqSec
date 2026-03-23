@@ -383,7 +383,7 @@ Returns personal key usage. Requires `x-api-key` header.
 
 > Overage: $0.003/call above plan limit.
 
-### Bundle 1 — Identity Core · all plans
+### STARTER — Identity Core · all plans
 | Signal | Detects |
 |---|---|
 | Email reputation | Disposable domains, breach history, username patterns |
@@ -391,12 +391,12 @@ Returns personal key usage. Requires `x-api-key` header.
 | VPN / proxy | Flags VPN, proxy, and datacenter IPs |
 | Tor exit node | Known Tor exit nodes |
 
-### Bundle 2 — Network Intelligence · Growth+
+### GROWTH — Network Intelligence · Growth 
 | Signal | Detects |
 |---|---|
 | Timezone vs language | Region mismatch indicating spoofed location |
 
-### Bundle 3 — Behavioral Biometrics · Growth+
+### GROWTH - Behavioral Biometrics · Growth
 | Signal | Detects |
 |---|---|
 | Typing speed | Sub-human keystroke timing |
